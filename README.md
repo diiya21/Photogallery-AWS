@@ -140,6 +140,7 @@ The user interface will have a **dark theme**, designed for a smooth, modern exp
 - **Sign Up Use Case:** The user fills in email and password fields, clicks "Sign Up", and receives a confirmation email.
 - **Login Use Case:** After confirming their email, the user logs in with email and password, and is redirected to the home page.
 - **Add Image/Blog Use Case:** The user uploads an image, writes a blog post, and submits it. The image is uploaded to **S3** and metadata is saved to **DynamoDB**.
+![image](https://github.com/user-attachments/assets/2c18cdd2-a72c-42b2-b899-01943dd6c78a)
 
 ---
 
