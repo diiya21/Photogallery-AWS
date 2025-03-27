@@ -1,4 +1,4 @@
-# Project High Level Documentation
+# Photo Gallery Blog
 
 ## 000476083  
 **Author:** Diya
